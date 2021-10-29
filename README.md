@@ -5,11 +5,8 @@ Material práctico del curso *Introducción al aprendizaje automático* de la [M
 ## Clase 1
 
 - Introducción a python y a jupyter notebook.
-
 - Introducción a la manipulación de dataframes con `Pandas`.
-
 - Introducción a las herramientas gráficas y de visualización de python: `Matplotlib` y `seaborn`.
-
 - Métodos de clasificación basados en árboles de decisión usando `sklearn`: Introducción al árbol de decisión, Random Forest, XGBoost.
 
 ## Clase 2
@@ -17,5 +14,11 @@ Material práctico del curso *Introducción al aprendizaje automático* de la [M
 Aprendiendo a utilizar `sklearn`:
 
 - Exploración de datos: Análisis de Componentes Principales
-
 - Métodos de clasificación: Análisis Discriminante Lineal, Análisis Discriminante Cuadrático, Clasificador de Bayes.
+
+## Clase 3
+
+* Método de los *k* vecinos más cercanos (kNN: k Neighrest Neighbors).
+
+- Método de estimación de densidad de kernel (KDE: Kernel Density Estimation).
+- Introducción a las redes neuronales: Perceptrón simple.
