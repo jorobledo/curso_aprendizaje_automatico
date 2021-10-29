@@ -18,7 +18,6 @@ Aprendiendo a utilizar `sklearn`:
 
 ## Clase 3
 
-* Método de los *k* vecinos más cercanos (kNN: k Neighrest Neighbors).
-
+- Método de los *k* vecinos más cercanos (kNN: k Neighrest Neighbors).
 - Método de estimación de densidad de kernel (KDE: Kernel Density Estimation).
 - Introducción a las redes neuronales: Perceptrón simple.
