@@ -1,4 +1,4 @@
-# curso_aprendizaje_automatico
+# Curso de Introducción al Aprendizaje Automático 2021
 
 Material práctico del curso *Introducción al aprendizaje automático* de la [Maestría en Estadística Aplicada](https://www.graduados.eco.unc.edu.ar/es/formacion/maestrias/mea-maestria-en-estadistica-aplicada), de la Universidad Nacional de Córdoba.
 
