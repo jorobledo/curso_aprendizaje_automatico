@@ -20,4 +20,11 @@ Aprendiendo a utilizar `sklearn`:
 
 - Método de los *k* vecinos más cercanos (kNN: k Neighrest Neighbors).
 - Método de estimación de densidad de kernel (KDE: Kernel Density Estimation).
+
+## Clase 4
+
+Breve introducción al aprendizaje supervisado 
+
 - Introducción a las redes neuronales: Perceptrón simple.
+- Perceptrón múltiple
+- Regresión logística 
