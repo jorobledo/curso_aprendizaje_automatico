@@ -1,0 +1,13 @@
+name: MEA
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - python=3.7.10
+ - scikit-learn
+ - pandas
+ - matplotlib
+ - plotly
+ - seaborn
+ - notebook
+ - xgboost
